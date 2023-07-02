@@ -1,0 +1,7 @@
+{
+  "name": "AppDemoNav",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
